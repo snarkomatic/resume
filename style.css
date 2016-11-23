@@ -53,22 +53,23 @@ h4 {
 }
 
 .ehh {
-	width: 50%;
+	width: 100%;
+	padding: 15%;
 }
 
 .bad {
-	width: 90%;
-	padding: 20%;
+	width: 100%;
 }
 
 .awful {
-	width: 75%;
-	padding: 20%;
+	width: 65%;
+	padding: 15%;
 	position: relative;
 }
 
 .awful img {
 	position: absolute;
-	left: 350px;
+	left: 450px;
 	top: 10px;
+	padding-right: 5%;
 }
