@@ -1,0 +1,61 @@
+header {
+	margin: 50px 0 100px 10px;
+	text-align: center;
+}
+
+header img {
+	position: absolute;
+	left: 450px;
+	top: 150px;
+}
+
+body {
+	padding: 0 15px 0 25px;
+	background: rgba(138, 192, 209, .3);
+	color: #000;
+	font-family: Alegreya Sans;
+	font-size: 85%;
+}
+
+section {
+	padding: 15px 0 15px 0;
+}
+
+footer {
+	margin-top: 150px;
+	font-size: 75%;
+	text-align: center;
+}
+
+b {
+	padding-bottom: 1px;
+	border-bottom: 1px solid #F39FAA;
+}
+
+h1 {
+	font-size: 250%;
+	font-family: Alegreya Sans SC;
+}
+
+h2 {
+	font-size: 125%;
+	font-family: Alegreya Sans SC;
+	margin-top: -29px;
+}
+
+h3 {
+	font-family: Alegreya Sans SC;
+}
+
+h4 {
+	margin: 25px 0 10px 15px;
+	font-family: Alegreya;
+}
+
+.bad {
+	margin: 150px 50px 0 50px;
+}
+
+.awful {
+	margin-top: 75px;
+}
