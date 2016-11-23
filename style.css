@@ -1,11 +1,14 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 header {
 	margin: 50px 0 100px 10px;
 	text-align: center;
-}
-
-header img {
-	position: absolute;
-	top: 150px;
 }
 
 body {
@@ -49,10 +52,23 @@ h4 {
 	font-family: Alegreya;
 }
 
+.ehh {
+	width: 50%;
+}
+
 .bad {
-	margin: 150px 50px 0 50px;
+	width: 90%;
+	padding: 20%;
 }
 
 .awful {
-	margin-top: 75px;
+	width: 75%;
+	padding: 20%;
+	position: relative;
+}
+
+.awful img {
+	position: absolute;
+	left: 350px;
+	top: 10px;
 }
