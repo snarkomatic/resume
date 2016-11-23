@@ -31,19 +31,17 @@ b {
 	border-bottom: 1px solid #F39FAA;
 }
 
+h1, h2, h3 {
+	font-family: Alegreya Sans SC;
+}
+
 h1 {
 	font-size: 250%;
-	font-family: Alegreya Sans SC;
 }
 
 h2 {
 	font-size: 125%;
-	font-family: Alegreya Sans SC;
 	margin-top: -29px;
-}
-
-h3 {
-	font-family: Alegreya Sans SC;
 }
 
 h4 {
